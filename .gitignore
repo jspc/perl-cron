@@ -1,0 +1,9 @@
+# Emacs
+*~
+*#
+
+# Vi
+*.swp
+
+/tmp
+/sandbox

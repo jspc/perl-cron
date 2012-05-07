@@ -1,0 +1,6 @@
+This is a tiny little cron parser and worker.
+
+Ostensibly we want to fix the issues from vixie cron whereby all output is mailed
+instead of stdout, which is what we need.
+
+First, of course, we need to parse the crontab for a user and etc. etc.
